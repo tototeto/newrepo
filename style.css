@@ -5,7 +5,7 @@ body {
 div {
 	background-color: #ffaaee;
 	border: 3px;
-	border-color: black;
+	border-color: blue;
 	border-style: solid;
 	text-align: center;
 	border-radius: 15px;
@@ -17,7 +17,7 @@ nav {
 	text-align: center;
 	background-color: #aaffaa;
 	border: 3px;
-	border-color: black;
+	border-color: blue;
 	border-style: solid;
 	border-radius: 15px;
 	margin: 5px 20px 5px 20px;
@@ -26,7 +26,7 @@ nav {
 .name {
 	color: #ffffff;
 	background-color: #000066;
-	border-color: black;
+	border-color: blue;
 	border-style: solid;
 	text-align: center;
 	border-radius: 10px;
@@ -37,4 +37,5 @@ nav {
 img {
 	border: 5px solid #3333ff;
 	border-radius: 15px;
+	margin: 20px;
 }
