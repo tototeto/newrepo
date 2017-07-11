@@ -9,5 +9,15 @@ div {
 	border-style: solid;
 	text-align: center;
 	border-radius: 15px;
-	margin: 0 20px 0 20px;
+	margin: 5px 20px 5px 20px;
+}
+
+nav {
+	text-align: center;
+	background-color: #aaffaa;
+	border: 3px;
+	border-color: black;
+	border-style: solid;
+	border-radius: 15px;
+	margin: 5px 20px 5px 20px;
 }
