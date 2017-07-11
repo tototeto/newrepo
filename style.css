@@ -21,3 +21,13 @@ nav {
 	border-radius: 15px;
 	margin: 5px 20px 5px 20px;
 }
+
+.name {
+	color: #ffffff;
+	background-color: #000066;
+	border-color: black;
+	border-style: solid;
+	text-align: center;
+	border-radius: 10px;
+	margin: 5px 80px 5px 80px;
+}
